@@ -28,5 +28,3 @@ This project is a clone of the Amazon homepage, built using HTML and CSS. It aim
 ## Author
 Himanshu Gangwar
 
----
-Feel free to contribute or suggest improvements!
