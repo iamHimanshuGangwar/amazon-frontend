@@ -26,5 +26,4 @@ This project is a clone of the Amazon homepage, built using HTML and CSS. It aim
 - Images and design inspired by Amazon.com
 
 ## Author
-Himanshu Gangwar
 
