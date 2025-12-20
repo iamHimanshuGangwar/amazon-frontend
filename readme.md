@@ -25,5 +25,4 @@ This project is a clone of the Amazon homepage, built using HTML and CSS. It aim
 ## Credits
 - Images and design inspired by Amazon.com
 
-## Author
 
